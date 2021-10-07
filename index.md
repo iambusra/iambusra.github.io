@@ -1,5 +1,4 @@
-# Büşra Marşan
-## About Me
-Lorem ipsum dolor sit amet.
-
-[Publications](publications.md)
+# Under construction
+## Hopefully not for too long.
+If you need to get in touch in the meantime, please e-mail me:
+busra\[dot]marsan\[at]boun.edu.tr
