@@ -7,7 +7,7 @@ description:
 sitemap:
   priority: 1.0
 ---
-<big> <b> Conference Proceedings </b> </big>
+<big> <b> Conference Proceedings </b> </big> <br> <br>
 <b> <a href="https://arxiv.org/pdf/2207.11782.pdf">Enhancements to the BOUN Treebank Reflecting the Agglutinative Nature of Turkish</a> </b>
 <br>
 <b>Marşan, Büşra;</b> Akkurt, Salih Furkan; Şen, Muhammet; Gürbüz, Merve; Güngör, Onur; Özateş, Şaziye Betül; Üsküdarlı, Suzan; Özgür, Arzucan; Güngör, Tunga; Öztürk, Balkız;  <i>arXiv preprint arXiv:2207.11782 (2022).</i>
@@ -50,12 +50,12 @@ Kuzgun, Aslı; Yıldız, Oğuz Kerem; Cesur, Neslihan; <b>Marşan, Büşra;</b> 
 <br>
 <b> <a href="https://www.researchgate.net/profile/Olcay-Yildiz/publication/344829532_On_Building_the_Largest_and_Cross-Linguistic_Turkish_Dependency_Corpus/links/5f92650992851c14bcded948/On-Building-the-Largest-and-Cross-Linguistic-Turkish-Dependency-Corpus.pdf">On building the largest and cross-linguistic turkish dependency corpus</a></b>
 <br>
-Kuzgun, Aslı; Cesur, Neslihan; Arıcan, Bilge Nas; Özçelik, Merve; <b>Marşan, Büşra;<b> Kara, Neslihan; Aslan, Deniz Baran; Yıldız, Olcay Taner; In <i>2020 Innovations in Intelligent Systems and Applications Conference (ASYU),</i> pp. 1-6. IEEE, 2020.
+Kuzgun, Aslı; Cesur, Neslihan; Arıcan, Bilge Nas; Özçelik, Merve; <b>Marşan, Büşra;</b> Kara, Neslihan; Aslan, Deniz Baran; Yıldız, Olcay Taner; In <i>2020 Innovations in Intelligent Systems and Applications Conference (ASYU),</i> pp. 1-6. IEEE, 2020.
 <br>
 <br>
 <b> <a href="https://www.researchgate.net/profile/Olcay-Yildiz/publication/344829282_Creating_A_Syntactically_Felicitous_Constituency_Treebank_For_Turkish/links/5f92633c458515b7cf96b733/Creating-A-Syntactically-Felicitous-Constituency-Treebank-For-Turkish.pdf">Creating a syntactically felicitous constituency treebank for Turkish</a></b>
 <br>
-Kara, Neslihan; <i>Marşan, Büşra;</i> Özçelik, Merve; Arıcan, Bilge Nas; Kuzgun, Aslı; Cesur, Neslihan; Aslan, Deniz Baran; Yıldız, Olcay Taner; In <i>2020 Innovations in Intelligent Systems and Applications Conference (ASYU),</i> pp. 1-6. IEEE, 2020.
+Kara, Neslihan; <b>Marşan, Büşra;</b> Özçelik, Merve; Arıcan, Bilge Nas; Kuzgun, Aslı; Cesur, Neslihan; Aslan, Deniz Baran; Yıldız, Olcay Taner; In <i>2020 Innovations in Intelligent Systems and Applications Conference (ASYU),</i> pp. 1-6. IEEE, 2020.
 <br>
 <br>
 <b> <a href="https://aclanthology.org/2020.lrec-1.336.pdf">TRopBank: Turkish PropBank v2.0</a></b>
@@ -64,5 +64,5 @@ Kara, Neslihan; Aslan, Deniz Baran; <b>Marşan, Büşra;</b> Bakay, Özge; Ak, K
 <br>
 <br>
 <br>
-<big> <b> Invited Talks & Presentations </b> </big>
+<big> <b> Invited Talks & Presentations </b> </big> <br>
 Coming soon.
