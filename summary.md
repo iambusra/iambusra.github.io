@@ -2,8 +2,8 @@
 layout: page
 full_logo: true
 title: 
-subtitle: Summary
-description: A brief summary of my profile & what I'm doing right now. 
+subtitle: A brief summary of my profile & what I'm doing right now. 
+description: 
 sitemap:
   priority: 1.0
 ---

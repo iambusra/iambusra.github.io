@@ -18,8 +18,3 @@ I love coding, cats, coffee, comic books, computer games, and a healthy dose of 
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
