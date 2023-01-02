@@ -1,69 +1,147 @@
-<p align="center">
-    <h2 align="center">Indigo Minimalist Jekyll Template - <a href="https://sergiokopplin.github.io/indigo/">Demo</a></h2>
-</p>
+# bay
 
-<p align="center">This is a simple and minimalist template for Jekyll for those who likes to eat noodles.</p>
+[![Version](https://img.shields.io/gem/v/bay_jekyll_theme)](https://rubygems.org/gems/bay_jekyll_theme)
+[![Downloads](https://img.shields.io/gem/dt/bay_jekyll_theme)](https://rubygems.org/gems/bay_jekyll_theme)
 
-***
+Bay is a simple theme for Jekyll. [[view live]](https://eliottvincent.github.io/bay)
 
-<p align="center">
-    <b><a href="README.md#what-has-inside">What has inside</a></b>
-    |
-    <b><a href="README.md#setup">Setup</a></b>
-    |
-    <b><a href="README.md#settings">Settings</a></b>
-    |
-    <b><a href="README.md#how-to">How to</a></b>
-</p>
+Inspired by [dangrover.com](http://dangrover.com/). Current theme used at [eliottvincent.com](http://eliottvincent.com/).
 
-<p align="center">
-    Light and Dark themes.
-</p>
+![](/screenshot.png)
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png" />
-</p>
+### Installation
 
-## What has inside
 
-- [Jekyll](https://jekyllrb.com/), [Sass](https://sass-lang.com/) ~[RSCSS](https://rscss.io/)~ and [SVG](https://www.w3.org/Graphics/SVG/);
-- Google Speed: [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F);
-- No JS. :sunglasses:
+The easiest solution is to [fork this repo](https://github.com/eliottvincent/bay/fork).
+If you want to start from a clean website, follow the steps bellow:
 
-## Setup
-
-0. :star: to the project. :metal:
-1. Fork the project [Indigo](https://github.com/sergiokopplin/indigo/fork)
-2. Edit `_config.yml` with your data (check <a href="README.md#settings">settings</a> section)
-3. Write some posts :bowtie:
-
-If you want to test locally on your machine, do the following steps also:
-
-1. Install [Jekyll](https://jekyllrb.com) and [Bundler](https://bundler.io/).
-2. Clone the forked repo on your machine
-3. Enter the cloned folder via terminal and run `bundle install`
-4. Then run `bundle exec jekyll serve`
-5. Open it in your browser: `http://localhost:4000`
-6. Do you want an admin panel to edit your posts? You can install this plugin [jekyll-admin](https://jekyll.github.io/jekyll-admin/).
-
-## Settings
-
-You must fill some informations on `_config.yml` to customize your site.
-
+Create a new Jekyll website:
 ```
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
-picture: 'assets/images/profile.jpg'
-...
-
-and lot of other options, like width, projects, pages, read-time, tags, related posts, animations, multiple-authors, etc.
+jekyll new mysite
 ```
 
-## How To?
+Open `Gemfile` and replace the line:
+```
+gem "minima"
+```
+with:
+```
+gem "bay_jekyll_theme"
+```
 
-Check the [FAQ](./FAQ.md) if you have any doubt or problem.
+Open `_config.yml` and replace the line:
+```
+theme: minima
+```
+with:
+```
+theme: bay_jekyll_theme
+```
+or, for GitHub Pages:
+```
+remote_theme: eliottvincent/bay
+```
 
+Finally, install the dependencies:
+```
+bundle install
+```
+
+and build the website!
+```
+jekyll serve
+```
+
+
+The website will look somewhat empty at first. That's normal. Follow the next instructions to complete the header and footer components, and the home and blog pages.
+
+### Header
+Open the `_config.yml` file and add the following:
+```yml
+header:
+  pages:
+    - name: Home
+      slug: /     # <-- index.md
+    - name: Blog  # <-- blog.md
+    - name: Whatever  # <-- whatever.md
+```
+Re-run `jekyll serve` to see the header updated.
+
+### Footer
+Open the `_config.yml` file and add the following:
+```yml
+footer:
+  show_powered_by: true
+  contact:
+    - name: Email
+      value: yourmail@domain.com
+      link: mailto:yourmail@domain.com
+    - name: WeChat
+      value: YourWeChatUsername
+      link: "#"
+  follow:
+    - name: Twitter
+      link: http://twitter.com/YourTwitterUsername
+      username: "@YourTwitterUsername"
+    - name: Facebook
+      link: http://facebook.com/YourFacebookUsername
+    - name: LinkedIn
+      link: http://linkedin.com/in/YourLinkedInUsername
+    - name: GitHub
+      link: http://github.com/YourGitHubUsername
+    - name: Dribbble
+      link: https://dribbble.com/YourDribbbleUsername
+    - name: Weibo
+      link: http://weibo.com/u/YourWeiboUsername
+    - name: RSS
+      link: /feed.xml
+```
+Re-run `jekyll serve` to see the footer updated.
+
+### Home page
+Create (or edit) the `index.markdown` file and add the following:
+```yml
 ---
-## License
+layout: home
+profile_picture:
+  src: /assets/img/profile-pic.jpg
+  alt: website picture
+---
 
-[MIT](https://kopplin.mit-license.org/) License © Sérgio Kopplin
+<p>
+  Welcome to mysite!
+</p>
+```
+
+### Blog page
+Create `blog.markdown` file and add the following:
+```yml
+---
+layout: blog
+title: Blog
+slug: /blog
+---
+
+This is an example of a "Blog" page, displaying a list of posts.
+<br />
+```
+
+
+Your website is ready!
+
+
+### Development
+
+#### Run development instance (with hot-reload)
+```sh
+bundle exec jekyll serve
+```
+
+#### Build and publish the gem
+```sh
+gem build bay_jekyll_theme.gemspec
+```
+
+```sh
+gem push bay_jekyll_theme-1.x.x.gem
+```
