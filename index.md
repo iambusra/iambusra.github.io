@@ -10,7 +10,7 @@ sitemap:
 
 <big> <b> Hello there! 👋 </b> </big>
 <br>
-My name is pronounced as <b>byʃ.'ɾa 'maɾ.ʃan<b> and my pronouns are she/her. <br>
+My name is pronounced as <b>byʃ.'ɾa 'maɾ.ʃan</b> and my pronouns are she/her. <br>
 
 I am an MA student at Boğaziçi University Department of Linguistics under the supervision of <a href="http://web.boun.edu.tr/umit.atlamaz/">Ümit Atlamaz</a> and <a href="https://omerdemirok.com">Ömer Demirok</a>. I am mainly interested in formal semantics, computational linguistics and natural language processing. Currently, I am working on my thesis which explores <b>De Re De Dicto ambiguities in Turkish</b> from both theoretical and computational perspectives. From the theoretical perspective, I probe the effects of word order, case morphology and information structure on De Re De Dicto ambiguities. From the computational perspective, I investigate language models' abilities to understand De Re De Dicto ambiguities and whether they refer to the world knowledge to do so. 
 
