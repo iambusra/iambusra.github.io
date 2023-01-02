@@ -1,7 +1,7 @@
 ---
 layout: page
 full_logo: true
-title: 
+title: Summary
 subtitle: A brief summary of my profile & what I'm doing right now. 
 description: 
 sitemap:
