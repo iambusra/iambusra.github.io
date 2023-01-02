@@ -1,14 +1,22 @@
 ---
-layout: home
-profile_picture:
-  src: /assets/img/profile-pic.jpg
-  alt: website picture
+layout: page
+full_logo: true
+title: 
+subtitle: 
+description: A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
+sitemap:
+  priority: 1.0
 ---
+<p class="describe-text">A minimal yet feature-rich Jekyll theme made for personal websites and blogs.</p>
+<br>
+This is the index page, describe yourself in few sentences here. Perhaps talk about what you do for living and what you do in your free time. Maybe even leave an [email@address.com](#) or a link to your [resume](#).
 
-<p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
-</p>
+Pudhina Fresh is free and open-source. Checkout [Pudhina Fresh](https://github.com/ritijjain/pudhina-fresh).
 
-<p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
-</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
