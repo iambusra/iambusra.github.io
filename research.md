@@ -57,7 +57,7 @@ Kuzgun, Aslı; Yıldız, Oğuz Kerem; Cesur, Neslihan; <b>Marşan, Büşra;</b> 
 <br>
 <b> <a href="https://aclanthology.org/2021.gwc-1.14.pdf">Building the Turkish FrameNet</a></b>
 <br>
-<b>Marşan, Büşra;</b> Kara, Neslihan; Özçelik, Merve; Arıcan, Bilge Nas; Cesur, Neslihan; Kuzgun, Aslı; Sanıyar, Ezgi; Kuyrukçu, Oğuzhan; Yıldız, Olcay Taner; In <i>Proceedings of the 11th Global Wordnet Conference,</i> pp. 118-125. 2021..
+<b>Marşan, Büşra;</b> Kara, Neslihan; Özçelik, Merve; Arıcan, Bilge Nas; Cesur, Neslihan; Kuzgun, Aslı; Sanıyar, Ezgi; Kuyrukçu, Oğuzhan; Yıldız, Olcay Taner; In <i>Proceedings of the 11th Global Wordnet Conference,</i> pp. 118-125. 2021.
 <br>
 <br>
 <br>
