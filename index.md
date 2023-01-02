@@ -7,7 +7,7 @@ description: A minimal yet feature-rich Jekyll theme made for personal websites 
 sitemap:
   priority: 1.0
 ---
-<p class="describe-text">Hello there!</p>
+<p class="describe-text">Hello there! 👋 </p>
 <br>
 I am an MA student in the Department of Linguistics, Boğaziçi University. I am mainly interested in formal semantics, computational linguistics and natural language processing. Currently, I am working on my thesis which explores De Re De Dicto ambiguities in Turkish from both theoretical and computational perspectives. From the theoretical perspective, I probe the effects of word order, case morphology and information structure on De Re De Dicto ambiguities. From the computational perspective, I investigate language models' abilities to understand De Re De Dicto ambiguities and whether they refer to the world knowledge to do so. 
 
