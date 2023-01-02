@@ -22,8 +22,8 @@ sitemap:
 📖 <b>Currently Reading:</b> East of Eden by John Steinbeck, Foundations of Pragmatics by Wolfram Bublitz & Neal R. Norrick
 <br>
 <br>
-🗣 <b>Languages:</b> French, Spanish, German, Hebrew (still learning), Western Armenian (still learning) <br>
-⌨️ <b>Programming:</b> Python, PyTorch, TensorFlow, R, RStan, C# <br>
+🗣 <b>Languages:</b> French, Spanish, German. Currently learning Hebrew and Western Armenian. <br>
+⌨️ <b>Programming:</b> Python, PyTorch, TensorFlow, R, RStan, C#
 <br>
 <br>
 🎮 <b> Gaming:</b> Simourv#2294 on Battle.net, Simourv on Steam <br>
