@@ -57,7 +57,7 @@ Kuzgun, Aslı; Yıldız, Oğuz Kerem; Cesur, Neslihan; <b>Marşan, Büşra;</b> 
 <br>
 <b> <a href="https://www.researchgate.net/profile/Olcay-Yildiz/publication/344829532_On_Building_the_Largest_and_Cross-Linguistic_Turkish_Dependency_Corpus/links/5f92650992851c14bcded948/On-Building-the-Largest-and-Cross-Linguistic-Turkish-Dependency-Corpus.pdf">On building the largest and cross-linguistic turkish dependency corpus</a></b>
 <br>
-Kuzgun, Aslı; Cesur, Neslihan; Arıcan, Bilge Nas; Özçelik, Merve; <b>Marşan, Büşra;</i> Kara, Neslihan; Aslan, Deniz Baran; Yıldız, Olcay Taner; In <i>2020 Innovations in Intelligent Systems and Applications Conference (ASYU),</i> pp. 1-6. IEEE, 2020.
+Kuzgun, Aslı; Cesur, Neslihan; Arıcan, Bilge Nas; Özçelik, Merve; <b>Marşan, Büşra;<b> Kara, Neslihan; Aslan, Deniz Baran; Yıldız, Olcay Taner; In <i>2020 Innovations in Intelligent Systems and Applications Conference (ASYU),</i> pp. 1-6. IEEE, 2020.
 <br>
 <br>
 <br>
