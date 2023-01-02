@@ -9,20 +9,20 @@
     <a href="https://aclanthology.org/2021.gwc-1.14.pdf" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp View Publication</a>
   tags: [FrameNet, NLPresources] # A list of tags
 
-- name: Turkish PropBank v2.0
+- name: Turkish PropBank
   id: propbank
-  img_src: 
-  description_less: I was one of the lead researchers in Turkish PropBank project. >
+  #img_src:
+  description_less: I was one of the lead researchers in Turkish PropBank project.
   description_more: >
     <p>Turkish PropBank, TRopBank, contains 17.673 predicates in Turkish and marks their argument structure.</p>
   action_buttons: >
     <a href="https://github.com/StarlangSoftware/TurkishPropBank-Py" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-        <a href="https://aclanthology.org/2020.lrec-1.336.pdf" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp View Publication</a>
+    <a href="https://aclanthology.org/2020.lrec-1.336.pdf" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp View Publication</a>
   tags: [PropBank, NLPresources]
 
 - name: BOUN Treebank
   id: bountbank
-  img_src: 
+  #img_src:
   description_less: I was in the team of linguists who contributed to UD style BOUN Treebank.
   description_more: >
     <p>BOUN Treebank is a UD-style treebank created by BOUN TABILAB as part of a research project funded by TÜBİTAK. I was part of the team that re-annotated BOUN Treebank to improve linguistic accuracy and coherency. </p>
