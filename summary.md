@@ -8,6 +8,7 @@ sitemap:
   priority: 1.0
 ---
 <br>
+👄 byʃ.'ɾa 'maɾ.ʃan <i>(she / her)</i> <br>
 📍İstanbul <i>(AFK until Jan 10th)</i> <br>
 📨 <b>Contact:</b> busra { dot } marsan { at sign } boun.edu.tr
 <br>
