@@ -25,6 +25,8 @@ sitemap:
 ⌨️ <b>Programming:</b> Python, PyTorch, TensorFlow, R, RStan, C# <br>
 <br>
 <br>
+🎮 <b> Gaming:</b> Simourv#2294 on Battle.net, Simourv on Steam <br>
+👾 <b> Currently Playing:</b> Hearthstone, NFS Most Wanted <br>
 <br>
-🎮 <b> Gaming:</b> Simourv#2294 on Battle.net, Simourv on Steam
-👾 <b> Currently Playing:</b> Hearthstone, NFS Most Wanted 
+<br>
+<br>

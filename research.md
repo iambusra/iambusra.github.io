@@ -55,9 +55,21 @@ Kuzgun, Aslı; Yıldız, Oğuz Kerem; Cesur, Neslihan; <b>Marşan, Büşra;</b> 
 <br>
 <br>
 <br>
-<b> <a href="https://aclanthology.org/2021.gwc-1.14.pdf">Building the Turkish FrameNet</a></b>
+<b> <a href="https://www.researchgate.net/profile/Olcay-Yildiz/publication/344829532_On_Building_the_Largest_and_Cross-Linguistic_Turkish_Dependency_Corpus/links/5f92650992851c14bcded948/On-Building-the-Largest-and-Cross-Linguistic-Turkish-Dependency-Corpus.pdf">On building the largest and cross-linguistic turkish dependency corpus</a></b>
 <br>
-<b>Marşan, Büşra;</b> Kara, Neslihan; Özçelik, Merve; Arıcan, Bilge Nas; Cesur, Neslihan; Kuzgun, Aslı; Sanıyar, Ezgi; Kuyrukçu, Oğuzhan; Yıldız, Olcay Taner; In <i>Proceedings of the 11th Global Wordnet Conference,</i> pp. 118-125. 2021.
+Kuzgun, Aslı; Cesur, Neslihan; Arıcan, Bilge Nas; Özçelik, Merve; <b>Marşan, Büşra;</i> Kara, Neslihan; Aslan, Deniz Baran; Yıldız, Olcay Taner; In <i>2020 Innovations in Intelligent Systems and Applications Conference (ASYU),</i> pp. 1-6. IEEE, 2020.
+<br>
+<br>
+<br>
+<b> <a href="https://www.researchgate.net/profile/Olcay-Yildiz/publication/344829282_Creating_A_Syntactically_Felicitous_Constituency_Treebank_For_Turkish/links/5f92633c458515b7cf96b733/Creating-A-Syntactically-Felicitous-Constituency-Treebank-For-Turkish.pdf">Creating a syntactically felicitous constituency treebank for Turkish</a></b>
+<br>
+Kara, Neslihan; <i>Marşan, Büşra;</i> Özçelik, Merve; Arıcan, Bilge Nas; Kuzgun, Aslı; Cesur, Neslihan; Aslan, Deniz Baran; Yıldız, Olcay Taner; In <i>2020 Innovations in Intelligent Systems and Applications Conference (ASYU),</i> pp. 1-6. IEEE, 2020.
+<br>
+<br>
+<br>
+<b> <a href="https://aclanthology.org/2020.lrec-1.336.pdf">TRopBank: Turkish PropBank v2.0</a></b>
+<br>
+Kara, Neslihan; Aslan, Deniz Baran; <b>Marşan, Büşra;</b> Bakay, Özge; Ak, Koray; Yıldız, Olcay Taner; In <i>Proceedings of the 12th Language Resources and Evaluation Conference,</i> pp. 2763-2772. 2020.
 <br>
 <br>
 <br>
