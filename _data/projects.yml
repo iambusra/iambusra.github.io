@@ -13,6 +13,7 @@
   id: propbank
   img_src: 
   description_less: I was one of the lead researchers in Turkish PropBank project. >
+  description_more: >
     <p>Turkish PropBank, TRopBank, contains 17.673 predicates in Turkish and marks their argument structure.</p>
   action_buttons: >
     <a href="https://github.com/StarlangSoftware/TurkishPropBank-Py" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
