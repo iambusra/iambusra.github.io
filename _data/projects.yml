@@ -52,7 +52,7 @@
     <a href="https://arxiv.org/pdf/2207.01327.pdf"></i> &nbsp View Publication</a>
   tags: [UD, NLPresources]
   
-  - name: CNLI-TR
+- name: CNLI-TR
   id: cnlitr
   #img_src:
   description_less: CNLI-TR is a challenge natural language inference dataset in Turkish.
