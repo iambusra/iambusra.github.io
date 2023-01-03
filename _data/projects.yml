@@ -25,7 +25,7 @@
   #img_src:
   description_less: BOUN Treebank is a manually annotated UD-style treebank.
   description_more: >
-    <p>I was in the team of linguists who contributed to UD style BOUN Treebank. BOUN Treebank is a UD-style treebank created by BOUN TABILAB as part of a research project funded by TÜBİTAK. I was part of the team that re-annotated BOUN Treebank to improve linguistic accuracy and coherency. </p>
+    <p> I was in the team of linguists who contributed to UD style BOUN Treebank. BOUN Treebank is a UD-style treebank created by BOUN TABILAB as part of a research project funded by TÜBİTAK. I was part of the team that re-annotated BOUN Treebank to improve linguistic accuracy and coherency. </p>
   action_buttons: >
     <a href="https://github.com/UniversalDependencies/UD_Turkish-BOUN" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
     <a href="https://arxiv.org/pdf/2207.11782" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp View Publication</a>
@@ -36,7 +36,7 @@
   #img_src:
   description_less: FrameForm is an open-source tool that facilitates frame annotation for FrameNet.
   description_more: >
-    <p>I was the lead researcher and designer in FrameForm project. FrameForm is a freely available open-source annotation tool that allows annotating frames and semantic roles, creating new domains, and adding sample sentences to frames.</p>
+    <p> I was the lead researcher and designer in FrameForm project. FrameForm is a freely available open-source annotation tool that allows annotating frames and semantic roles, creating new domains, and adding sample sentences to frames.</p>
   action_buttons: >
     <a href="https://github.com/StarlangSoftware/SemanticRoleLabeling"></i> &nbsp Repository</a>
     <a href="https://aclanthology.org/2021.eacl-demos.pdf#page=271"></i> &nbsp View Publication</a>
@@ -47,7 +47,7 @@
   #img_src:
   description_less: BoAT is a grammar annotation tool designed for agglutinative languages.
   description_more: >
-    <p>I contributed to enhancements made to BoAT v1. BoAT v2 offers advanced search, collaborative properties, autocomplete, improved annotation interface and more to support the annotator and facilitate the annotation process.</p>
+    <p> I contributed to enhancements made to BoAT v1. BoAT v2 offers advanced search, collaborative properties, autocomplete, improved annotation interface and more to support the annotator and facilitate the annotation process.</p>
   action_buttons: >
     <a href="https://arxiv.org/pdf/2207.01327.pdf"></i> &nbsp View Publication</a>
   tags: [UD, NLPresources]
@@ -57,7 +57,7 @@
   #img_src:
   description_less: CNLI-TR is a challenge natural language inference dataset in Turkish.
   description_more: >
-    <p>I was the lead researcher and designer in CNL-TR project, funded by Boğaziçi University Language Research Center. CNL-TR is a natural language inference dataset that consists of sentence triplets: One potentially De Re De Dicto ambiguous sentence, one De Re paraphrase and one De Dicto paraphrase.</p>
+    <p> I was the lead researcher and designer in CNL-TR project, funded by Boğaziçi University Language Research Center. CNL-TR is a natural language inference dataset that consists of sentence triplets: One potentially De Re De Dicto ambiguous sentence, one De Re paraphrase and one De Dicto paraphrase.</p>
   action_buttons: >
     <a href="https://github.com/iambusra/CNLI-TR_augmentation"></i> &nbsp Repository</a>
   tags: [NLI, NLPresources]
