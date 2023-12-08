@@ -6,7 +6,7 @@ Please see my GitHub profile or webpage for detailed info about me, my research 
 ## Notes
 ### Issues
 * Teaching page is empty. To be filled.
-* Invited Talks & Presentations subsection in Research page is empty. To be filled.
+* Invited Talks & Presentations subsection in Publications page is empty. To be filled.
 * Projects are not complete. Few items will be added.
 * Dark mode turns emojis into nightmare fuel. To be fixed.
 

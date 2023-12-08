@@ -1,7 +1,7 @@
 ---
 layout: page
 full_logo: true
-title: Research
+title: Publications
 subtitle: Click on the title of publication to view the full text.
 description: 
 sitemap:
