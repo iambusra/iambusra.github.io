@@ -10,7 +10,7 @@ author:
   linkedin: busramarsan # Your LinkedIn profile url name, used for LinkedIn icon on the top right
   email: busra.marsan@boun.edu.tr # Used for email icon on the top right
   homepage: https://busramarsan.com # This links to your name in post meta
-  twitter: # Twitter username, used for Twitter Card Analytics 
+  twitter: busramarsan # Twitter username, used for Twitter Card Analytics 
 
 disqus_name: # Setting this will turn on Disqus comments
 g_track_id: # Google Analytics tracking ID (e.g. UA-000000-2), setting this will turn on Google Analytics
