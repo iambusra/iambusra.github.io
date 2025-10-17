@@ -7,15 +7,7 @@ permalink: /boun-talk
 sitemap:
   priority: 0.7
 ---
----
-layout: page
-title: Boğaziçi Talk References
-subtitle: References and readings from my Boğaziçi University talk.
-description: References and materials related to my Boğaziçi University talk.
-permalink: /boun-talk
-sitemap:
-  priority: 0.7
----
+
 
 ## References
 
