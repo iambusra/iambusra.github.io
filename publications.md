@@ -8,6 +8,16 @@ sitemap:
   priority: 1.0
 ---
 <big> <b> Conference Proceedings </b> </big> <br> <br>
+<b> <a href="https://aclanthology.org/2024.lrec-main.577.pdf">Evaluating the quality of a corpus annotation scheme using pretrained language models</a> </b>
+<br>
+Akkurt, Furkan; Güngör, Onur; <b>Marşan, Büşra;</b> Güngör, Tunga; Öztürk, Balkız; Özgür, Arzucan; Üsküdarlı, Suzan; In <i>Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)</i>
+<br>
+<br>
+<b> <a href="https://aclanthology.org/2024.mwe-1.25.pdf">Strategies for the annotation of pronominalised locatives in Turkic Universal Dependency treebanks</a> </b>
+<br>
+Washington, Jonathan; Çöltekin, Çağrı; Akkurt, Furkan; Chontaeva, Bermet; Eslami, Soudabeh; Jumalieva, Gulnura; Kasieva, Aida; Kuzgun, Aslı; <b>Marşan, Büşra;</b> Taguchi, Chihiro; In <i>Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)</i>
+<br>
+<br>
 <b> <a href="https://arxiv.org/pdf/2207.11782.pdf">Enhancements to the BOUN Treebank Reflecting the Agglutinative Nature of Turkish</a> </b>
 <br>
 <b>Marşan, Büşra;</b> Akkurt, Salih Furkan; Şen, Muhammet; Gürbüz, Merve; Güngör, Onur; Özateş, Şaziye Betül; Üsküdarlı, Suzan; Özgür, Arzucan; Güngör, Tunga; Öztürk, Balkız;  <i>arXiv preprint arXiv:2207.11782 (2022).</i>
