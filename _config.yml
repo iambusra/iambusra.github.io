@@ -1,7 +1,7 @@
 title: Büşra Marşan # Shown in header on pages with full_logo: true
 short_logo: Büşra Marşan # Shown in header on all pages by default unless full_logo: true is set
 description: > # The description for your site
-  #A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
+  PhD student in Linguistics at Stanford University, working at the intersection of formal semantics and natural language processing. I am a member of the Stanford NLP Group and the SOIL Lab.
 url: "https://busramarsan.com" # Site base URL
 
 author:
