@@ -2,11 +2,15 @@
 layout: page
 full_logo: true
 title: Publications
-subtitle: Click on the title of publication to view the full text.
+subtitle: Articles and conference proceedings. Click a title to read more.
 description: 
 sitemap:
   priority: 1.0
 ---
+<h2>Journal Articles</h2>
+<p><strong><a href="https://doi.org/10.62601/crll.v4i1.66">Translanguaging Pedagogy in the Age of AI</a></strong><br>
+Kopuz, Ecem; <strong>Marşan, Büşra;</strong> Akkuş, İrem Naz. (2026). <em>Contemporary Research in Language and Linguistics, 4</em>(1).</p>
+
 <big> <b> Conference Proceedings </b> </big> <br> <br>
 <b> <a href="https://aclanthology.org/2024.lrec-main.577.pdf">Evaluating the quality of a corpus annotation scheme using pretrained language models</a> </b>
 <br>
@@ -74,5 +78,4 @@ Kara, Neslihan; Aslan, Deniz Baran; <b>Marşan, Büşra;</b> Bakay, Özge; Ak, K
 <br>
 <br>
 <br>
-<big> <b> Invited Talks & Presentations </b> </big> <br>
-Coming soon.
+<p>For conference talks, posters, and invited lectures, visit <a href="{{ '/talks.html' | relative_url }}">Talks and presentations</a>.</p>

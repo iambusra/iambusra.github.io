@@ -233,6 +233,96 @@ a.logo:hover {
 }
 
 /* =Main Page */ /*************************************************************/
+.home {
+  margin-top: 2rem;
+}
+
+.home-intro--with-portrait {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(220px, 290px);
+  align-items: start;
+  gap: 2.5rem;
+}
+
+.home-greeting {
+  padding-top: 0;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.home-portrait {
+  margin: 0;
+}
+
+.home-portrait img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1;
+  object-fit: cover;
+  object-position: 55% 27%;
+  border-radius: 0.5rem;
+  isolation: isolate;
+}
+
+.home-research {
+  margin: 0.5rem 0 1.5rem;
+}
+
+.home-research summary {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  min-height: 44px;
+  padding: 0.6rem 1rem;
+  border: 1px solid currentColor;
+  border-radius: 0.25rem;
+  color: #57a;
+  font-weight: 600;
+  line-height: 1.5;
+  cursor: pointer;
+  list-style: none;
+}
+
+.home-research summary::-webkit-details-marker {
+  display: none;
+}
+
+.home-research summary::after {
+  content: "+";
+  font-size: 1.2em;
+}
+
+.home-research[open] summary::after {
+  content: "−";
+}
+
+.home-research summary:hover {
+  background: rgba(85, 119, 170, 0.08);
+}
+
+.home-research summary:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 4px;
+}
+
+.home-research__content {
+  padding-top: 1.25rem;
+}
+
+@media (max-width: 800px) {
+  .home-intro--with-portrait {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .home-portrait {
+    grid-row: 1;
+    width: min(240px, 100%);
+    margin: 0 auto;
+  }
+}
+
 .about-img {
   border-radius: 0.25rem;
   max-width: 125px;
