@@ -7,11 +7,15 @@ description:
 sitemap:
   priority: 1.0
 ---
-<h2>Journal Articles</h2>
+<h2 class="publication-section-title">Journal Articles</h2>
 <p><strong><a href="https://doi.org/10.62601/crll.v4i1.66">Translanguaging Pedagogy in the Age of AI</a></strong><br>
 Kopuz, Ecem; <strong>Marşan, Büşra;</strong> Akkuş, İrem Naz. (2026). <em>Contemporary Research in Language and Linguistics, 4</em>(1).</p>
 
-<big> <b> Conference Proceedings </b> </big> <br> <br>
+<h2 class="publication-section-title">Conference Proceedings</h2>
+<p><strong>Evidentiality as a Temporal Phenomenon: A Reanalysis of Turkish -mIş</strong><br>
+<strong>Marşan, Büşra.</strong> <em>To appear.</em> Tu+ 11 proceedings.<br>
+<a href="https://drive.google.com/file/d/1QfA937UKxfzBwnqcfmbowsyEGThTR1If/view">Abstract</a></p>
+
 <b> <a href="https://aclanthology.org/2024.lrec-main.577.pdf">Evaluating the quality of a corpus annotation scheme using pretrained language models</a> </b>
 <br>
 Akkurt, Furkan; Güngör, Onur; <b>Marşan, Büşra;</b> Güngör, Tunga; Öztürk, Balkız; Özgür, Arzucan; Üsküdarlı, Suzan; In <i>Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)</i>

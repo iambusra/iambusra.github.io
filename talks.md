@@ -17,20 +17,19 @@ Keynote, Department of Linguistics and Languages Student Research Day, McMaster 
 
 <p><strong><a href="https://transint.bogazici.edu.tr/tr/events/busra-marsan-large-language-models-for-tran/15397">Large Language Models for Translators: Hype vs Reality</a></strong><br>
 <strong>Büşra Marşan</strong><br>
-Invited online lecture, Department of Translation and Interpreting Studies, Boğaziçi University. 2025.<br>
-<a href="{{ '/boun-talk' | relative_url }}">References and readings</a></p>
+Invited online lecture, Department of Translation and Interpreting Studies, Boğaziçi University. 2025.</p>
 
 <h2>Conference Talks and Posters</h2>
 
 <p><strong>Untangling Turkish Evidentiality: Sure, but When?</strong><br>
 <strong>Büşra Marşan</strong> and Robert D. Hawkins<br>
 Poster, CAlifornia Meeting on Psycholinguistics (CAMP[9]), University of California, Santa Barbara. November 7, 2026.<br>
-<a href="https://camp9ucsb.github.io/conference/schedule/">Program</a></p>
+<a href="{{ '/assets/posters/camp9-evidentiality-poster.pdf' | relative_url }}">Poster</a> · <a href="https://camp9ucsb.github.io/conference/schedule/">Program</a></p>
 
 <p><strong>Know a Word by Its Neighbours: Teaching L2 Vocabulary Through LLM-Assisted Lexical-Semantic Grounding</strong><br>
-Ecem Kopuz and <strong>Büşra Marşan</strong><br>
+<strong>Büşra Marşan</strong> and Ecem Kopuz<br>
 Poster, Annual International Conference on Research in Applied Linguistics (AIRiAL), Teachers College, Columbia University. September 25–26, 2026.<br>
-<a href="https://www.gc.cuny.edu/fyis?program=499">Announcement</a></p>
+<a href="{{ '/assets/posters/airial2026-vocabulary-poster.pdf' | relative_url }}">Poster</a> · <a href="https://www.gc.cuny.edu/fyis?program=499">Announcement</a></p>
 
 <p><strong><a href="https://drive.google.com/file/d/1QfA937UKxfzBwnqcfmbowsyEGThTR1If/view">Evidentiality as a Temporal Phenomenon: A Reanalysis of Turkish -mIş</a></strong><br>
 <strong>Büşra Marşan</strong><br>

@@ -5,7 +5,7 @@ function switch_dark_mode_icon(darkmode, id) {
 }
 
 function render_dark_mode_icon(darkmode, id) {
-  var x = document.getElementsByTagName("img");
+  var x = document.querySelectorAll("img:not(.darkmode-ignore)");
   var i;
 
   console.log(x);

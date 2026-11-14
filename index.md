@@ -20,7 +20,7 @@ sitemap:
     </div>
     {% if portrait_file %}
     <figure class="home-portrait darkmode-ignore">
-      <img src="{{ page.portrait | relative_url }}" alt="Büşra Marşan smiling, wearing round glasses and a blue sweater." width="1536" height="2048" fetchpriority="high">
+      <img class="darkmode-ignore" src="{{ page.portrait | relative_url }}" alt="Büşra Marşan smiling, wearing round glasses and a blue sweater." width="3024" height="4032" fetchpriority="high">
     </figure>
     {% endif %}
   </div>

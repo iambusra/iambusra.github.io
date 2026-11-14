@@ -232,6 +232,13 @@ a.logo:hover {
   text-align: right;
 }
 
+.publication-section-title {
+  margin: 1.5rem 0;
+  padding-top: 0;
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
 /* =Main Page */ /*************************************************************/
 .home {
   margin-top: 2rem;
