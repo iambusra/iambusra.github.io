@@ -19,6 +19,12 @@ Keynote, Department of Linguistics and Languages Student Research Day, McMaster 
 <strong>Büşra Marşan</strong><br>
 Invited online lecture, Department of Translation and Interpreting Studies, Boğaziçi University. 2025.</p>
 
+<p><strong>Preserving Endangered Languages with UD</strong><br>
+Invited workshop, Boğaziçi University Student Conference in Linguistics (SCOL), İstanbul. May 2022.</p>
+
+<p><strong>Dependency grammar and its uses in computational linguistics research</strong><br>
+Invited lecture for Computational Methods in Linguistics, taught by Ümit Atlamaz, Department of Linguistics, Boğaziçi University. November 2020.</p>
+
 <h2>Conference Talks and Posters</h2>
 
 <p><strong>Untangling Turkish Evidentiality: Sure, but When?</strong><br>
@@ -45,3 +51,18 @@ Talk, 11th Workshop on Turkic and Languages in Contact with Turkic (Tu+ 11), MIT
 Jasper Jian and <strong>Büşra Marşan</strong><br>
 Talk, Linguistic Society of America Annual Meeting, New Orleans. 2026.<br>
 <a href="https://linguistics.stanford.edu/news/stanford-linguists-lsa-annual-meeting-2026">Announcement</a></p>
+
+<p><strong><a href="https://arxiv.org/abs/2207.11782">Enhancements to the BOUN Treebank Reflecting the Agglutinative Nature of Turkish</a></strong><br>
+Presentation, International Conference and Workshop on Agglutinative Language Technologies as a Challenge of Natural Language Processing (ALTNLP), online. June 2022.</p>
+
+<p><strong><a href="https://aclanthology.org/2022.lrec-1.540/">A Learning-Based Dependency to Constituency Conversion Algorithm for the Turkish Language</a></strong><br>
+Presentation, 13th Language Resources and Evaluation Conference (LREC). June 2022.</p>
+
+<p><strong><a href="https://aclanthology.org/2021.eacl-demos.30/">FrameForm: An Open-source Annotation Interface for FrameNet</a></strong><br>
+Presentation, 16th Conference of the European Chapter of the Association for Computational Linguistics (EACL). April 2021.</p>
+
+<p><strong><a href="https://aclanthology.org/2021.gwc-1.14/">Building the Turkish FrameNet</a></strong><br>
+Presentation, 11th Global Wordnet Conference. January 2021.</p>
+
+<p><strong><a href="https://aclanthology.org/2020.lrec-1.336/">TRopBank: Turkish PropBank v2.0</a></strong><br>
+Presentation, 12th Language Resources and Evaluation Conference (LREC). May 2020.</p>
