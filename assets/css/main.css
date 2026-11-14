@@ -413,10 +413,6 @@ a.logo:hover {
   text-align: center;
 }
 
-.darkmode-layer {
-  z-index: 2000;
-}
-
 /* =Glitch effect, Source: http://codepen.io/bulby97/pen/fcvay */ /*************************************************************/
 .glitch {
   position: relative;

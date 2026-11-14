@@ -12,7 +12,7 @@ sitemap:
 <section class="home" aria-label="About Büşra Marşan">
   <div class="home-intro{% if portrait_file %} home-intro--with-portrait{% endif %}">
     <div class="home-intro__text">
-      <h1 class="home-greeting">Hello! 👋</h1>
+      <h1 class="home-greeting">Hello! <span class="darkmode-ignore">👋</span></h1>
       <p>My name is pronounced <strong>byʃ.’ɾa ‘maɾ.ʃan</strong>, and my pronouns are <strong>she/her</strong>.</p>
       <p>I’m a <strong>fourth-year PhD student in Linguistics at Stanford University</strong>. I study <strong>meaning in humans and large language models</strong>: how they represent it, reason with it, and use it in communication.</p>
       <p>My interests span <strong>formal semantics, linguistically informed NLP, experimental methods, and information-theoretic approaches to language</strong>. I combine formal theory with computational and experimental methods to explore what human and model behavior can tell us about language.</p>

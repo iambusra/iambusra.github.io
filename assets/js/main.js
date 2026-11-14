@@ -5,22 +5,13 @@ function switch_dark_mode_icon(darkmode, id) {
 }
 
 function render_dark_mode_icon(darkmode, id) {
-  var x = document.querySelectorAll("img:not(.darkmode-ignore)");
-  var i;
-
-  console.log(x);
+  var icon = document.getElementById(id);
   if (darkmode.isActivated()) {
-    document.getElementById(id).classList.remove("fa-sun");
-    document.getElementById(id).classList.add("fa-moon");
-    for (i = 0; i < x.length; i++) {
-      x[i].style["mix-blend-mode"] = "difference";
-    }
+    icon.classList.remove("fa-sun");
+    icon.classList.add("fa-moon");
   } else {
-    document.getElementById(id).classList.remove("fa-moon");
-    document.getElementById(id).classList.add("fa-sun");
-    for (i = 0; i < x.length; i++) {
-      x[i].style["mix-blend-mode"] = "normal";
-    }
+    icon.classList.remove("fa-moon");
+    icon.classList.add("fa-sun");
   }
 }
 
