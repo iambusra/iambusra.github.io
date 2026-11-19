@@ -2,11 +2,15 @@
 layout: page
 full_logo: true
 title: Publications
-subtitle: Articles and conference proceedings. Click a title to read more.
+subtitle: Articles, preprints, and conference proceedings. Click a title to read more.
 description: 
 sitemap:
   priority: 1.0
 ---
+<h2 class="publication-section-title">Preprints</h2>
+<p><strong><a href="https://arxiv.org/pdf/2609.10054">Orukeet: Multilingual ASR with Frozen Gabor Kernels</a></strong><br>
+Roll, Nathan; Yi, Irene; <strong>Marşan, Büşra;</strong> Grenez, Vianney; Stein, Gabriel; Mrkaic, Momcilo; Padjin, Pavle; Zeljkovic, Vladimir; Graham, Calbert. (2026). <em>arXiv preprint arXiv:2609.10054.</em></p>
+
 <h2 class="publication-section-title">Journal Articles</h2>
 <p><strong><a href="https://doi.org/10.62601/crll.v4i1.66">Translanguaging Pedagogy in the Age of AI</a></strong><br>
 Kopuz, Ecem; <strong>Marşan, Büşra;</strong> Akkuş, İrem Naz. (2026). <em>Contemporary Research in Language and Linguistics, 4</em>(1).</p>
