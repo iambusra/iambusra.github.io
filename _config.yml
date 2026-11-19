@@ -8,6 +8,7 @@ url: "https://busramarsan.com" # Site base URL
 author:
   name: Büşra Marşan
   github: /iambusra # GitHub username, used for GitHub icon on the top right
+  scholar: "https://scholar.google.com/citations?user=UhNIBhsAAAAJ&hl=en"
   linkedin: busramarsan # Your LinkedIn profile url name, used for LinkedIn icon on the top right
   email: busra.marsan@boun.edu.tr # Used for email icon on the top right
   homepage: https://busramarsan.com # This links to your name in post meta
