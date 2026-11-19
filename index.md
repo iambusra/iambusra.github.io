@@ -38,6 +38,6 @@ sitemap:
 
   <div class="home-more">
     <p>You can find my publications and projects on my <a href="{{ '/publications.html' | relative_url }}">Publications</a> and <a href="{{ '/projects' | relative_url }}">Projects</a> pages, or visit my <a href="https://scholar.google.com/citations?user=UhNIBhsAAAAJ&amp;hl=en&amp;oi=ao">Google Scholar profile</a>.</p>
-    <p>Outside of research, I love coding, cats, coffee, comic books, computer games, and a healthy dose of alliteration. In my free time, I play Hearthstone and indie games, spam my friends with niche memes, watch B-movies, and read fiction.</p>
+    <p>Outside of research, I love cats, coffee, comic books, computer games, and a healthy dose of alliteration. In my free time, I play Hearthstone and indie games, spam my friends with niche memes, watch B-movies, and read fiction.</p>
   </div>
 </section>
